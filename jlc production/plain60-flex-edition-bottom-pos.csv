@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,1u,C_0805,-14.287512,-36.314093,180,bottom
 C2,0.1u,C_0805,-41.67191,-39.885971,180,bottom
 C3,0.1u,C_0805,-31.551589,-52.982857,135,bottom
